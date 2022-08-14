@@ -39,7 +39,7 @@ if __name__ == "__main__":
     args_dict = {
         "first_name":"Maryam",
         "last_name":"Mirzakhani",
-        "work_email":"mary.mirzakhani@awesome.com",
+        "work_email":"maryam.mirzakhani@awesome.com",
         "mobile_number":"222333444",
         "managers": ["Curtis"]
     }
